@@ -1,6 +1,6 @@
 # Angular WebGL By Example
 
-Just a playground for WebGL wrapped in Angular, all examples are from MSN
+Just a playground for WebGL wrapped in Angular, all examples are from MDN
 https://developer.mozilla.org/en-US/docs/Learn/WebGL/By_example
 
 
